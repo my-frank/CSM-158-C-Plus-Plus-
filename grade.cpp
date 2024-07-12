@@ -31,3 +31,4 @@ cout << grade<< endl;
 cout << remark;
 return 0;
 }
+
